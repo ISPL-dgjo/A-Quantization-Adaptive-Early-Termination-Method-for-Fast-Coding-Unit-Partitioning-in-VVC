@@ -1,0 +1,1 @@
+# A-Quantization-Adaptive-Early-Termination-Method-for-Fast-Coding-Unit-Partitioning-in-VVC
