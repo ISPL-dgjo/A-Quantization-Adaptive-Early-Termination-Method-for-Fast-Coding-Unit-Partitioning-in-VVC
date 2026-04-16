@@ -15,7 +15,7 @@ This repository contains training code and released **checkpoint weights** for t
 
 | Path | Role |
 |------|------|
-| `FFENetwork/` | Train the **CNN-based** `Autoenc` model on YUV input (`train2.py`); extract **frame-level feature maps** with trained weights (`extract_features.py`) |
+| `FFENetwork/` | Train the **CNN-based** model on YUV input (`train2.py`); extract **frame-level feature maps** with trained weights (`extract_features.py`) |
 | `PMPNetwork/` | Train the `SimpleMLP` on frame feature maps (`.pt`) from FFE and per-CU label CSVs (`t_32_32.py`, etc.); export TorchScript (`trace_mlp.py`) |
 
 Paths are relative to the repository root (e.g. `../datasets/train/...`). Adjust them for your environment.
