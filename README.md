@@ -31,7 +31,7 @@ Paths are relative to the repository root (e.g. `../datasets/train/...`). Adjust
 
 ---
 
-## 1. FFENetwork (FFE — frame feature maps)
+## 1. FFENetwork
 
 ### Training
 
@@ -50,7 +50,7 @@ Paths are relative to the repository root (e.g. `../datasets/train/...`). Adjust
 
 ---
 
-## 2. PMPNetwork (PMP — CU partition prediction)
+## 2. PMPNetwork
 
 ### Pipeline overview
 
