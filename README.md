@@ -92,7 +92,5 @@ If you change the CU block size (e.g. 32×32 vs. 64×64), update **all** of the 
 
 ## Paper information
 
-Fill in to match your manuscript.
-
 - **Title**: A Quantization Adaptive Early Termination Method for Fast Coding Unit Partitioning in VVC   
 - **DOI**:  
